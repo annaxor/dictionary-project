@@ -15,7 +15,7 @@ export default function App() {
         <footer className="App-footer">
           <small>
             {" "}
-            Open code on{" "}
+            An open code project on{" "}
             <a
               href="https://github.com/annaxor/dictionary-project"
               target="_blank"
