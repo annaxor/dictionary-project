@@ -15,16 +15,21 @@ export default function App() {
         <footer className="App-footer">
           <small>
             {" "}
-            An open code project on{" "}
+            Open code on{" "}
             <a
               href="https://github.com/annaxor/dictionary-project"
               target="_blank"
+              rel="noreferrer"
             >
               {" "}
               GitHub{" "}
             </a>{" "}
             by{" "}
-            <a href="https://roxannaortega.com/" target="_blank">
+            <a
+              href="https://roxannaortega.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
               Roxanna Ortega Valdivieso
             </a>
           </small>
