@@ -13,7 +13,21 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Roxanna Ortega Valdivieso</small>
+          <small>
+            {" "}
+            Open code on{" "}
+            <a
+              href="https://github.com/annaxor/dictionary-project"
+              target="_blank"
+            >
+              {" "}
+              GitHub{" "}
+            </a>{" "}
+            by{" "}
+            <a href="https://roxannaortega.com/" target="_blank">
+              Roxanna Ortega Valdivieso
+            </a>
+          </small>
         </footer>
       </div>
     </div>
