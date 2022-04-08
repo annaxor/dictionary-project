@@ -23,7 +23,7 @@ export default function Dictionary() {
     setKeyword(event.target.value);
   }
   return (
-    <div className="text-center">
+    <div>
       <form onSubmit={search}>
         <input type="search" onChange={handleKeywordChange} />
       </form>
