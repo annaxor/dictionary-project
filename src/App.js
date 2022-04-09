@@ -30,7 +30,7 @@ export default function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Roxanna Ortega Valdivieso
+              Roxanna T. Ortega Valdivieso
             </a>
           </small>
         </footer>
